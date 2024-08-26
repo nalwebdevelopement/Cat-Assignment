@@ -215,3 +215,12 @@ label
 .next {
     right: 0;
 }
+.datapost
+{
+    display:flex;
+    justify-content: center;
+    gap:10px;
+    background-color: red;
+    width: 25%;
+    margin-left:10%;
+}
